@@ -1,3 +1,5 @@
+// Name:Eghan Bright
+Student ID:10946174
 let number = prompt("Given number: ");
 let primeNum = [];
 
